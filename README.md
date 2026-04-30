@@ -21,6 +21,12 @@ YouTube Downloader is a high-fidelity browser extension paired with a powerful N
 *   📁 **Smart Naming:** Automatically appends quality tags like `[High Quality]` or `[audio]` for better file organization.
 *   🔄 **Real-Time Polling:** Efficient status updates from the backend to provide a smooth, responsive user experience.
 
+## Project Showcase
+
+| Main Interface | Quality Selection | Download Complete |
+| :---: | :---: | :---: |
+| ![Main UI](screenshots/main_ui.png) | ![Quality Select](screenshots/quality_select.png) | ![Success](screenshots/download_complete.png) |
+
 ## Tech Stack
 *   **Frontend:** Chrome Extension API (Manifest V3), HTML5, Vanilla CSS3, JavaScript (ES6+).
 *   **Backend:** Node.js, Express.js, CORS.
