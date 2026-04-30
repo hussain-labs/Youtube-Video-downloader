@@ -14,12 +14,12 @@ Building this tool helped me master:
 YouTube Downloader is a high-fidelity browser extension paired with a powerful Node.js backend. It provides a seamless, one-click interface for extracting videos, shorts, and audio directly from YouTube.
 
 ## Key Features
-*   🚀 **Bot-Detection Bypass:** Utilizes advanced Android/iOS client emulation to ensure stable downloads even during YouTube security updates.
-*   🎵 **Native Audio Extraction:** Intelligent audio grabbing that delivers high-quality MP3s without requiring local FFmpeg installation.
-*   🎬 **Shorts Compatible:** Fully optimized flow for YouTube Shorts, automatically converting mobile links for backend processing.
-*   💎 **Premium 3D UI:** A sleek, glassmorphism-inspired interface with custom 3D iconography and real-time progress tracking.
-*   📁 **Smart Naming:** Automatically appends quality tags like `[High Quality]` or `[audio]` for better file organization.
-*   🔄 **Real-Time Polling:** Efficient status updates from the backend to provide a smooth, responsive user experience.
+*    **Bot-Detection Bypass:** Utilizes advanced Android/iOS client emulation to ensure stable downloads even during YouTube security updates.
+*    **Native Audio Extraction:** Intelligent audio grabbing that delivers high-quality MP3s without requiring local FFmpeg installation.
+*    **Shorts Compatible:** Fully optimized flow for YouTube Shorts, automatically converting mobile links for backend processing.
+*    **Premium 3D UI:** A sleek, glassmorphism-inspired interface with custom 3D iconography and real-time progress tracking.
+*    **Smart Naming:** Automatically appends quality tags like `[High Quality]` or `[audio]` for better file organization.
+*    **Real-Time Polling:** Efficient status updates from the backend to provide a smooth, responsive user experience.
 
 ## Project Showcase
 
@@ -71,8 +71,9 @@ The backend will start at `http://localhost:7777`.
 *   Choose your quality and click **Download Now**.
 
 ---
+---
 ## About Us
-Developed by a team focused on React mastery and high-performance backend integrations. We specialize in building secure, scalable, and user-centric web applications.
+Developed by a team focused on Pure JavaScript mastery and high-performance backend integrations. We specialize in building lightweight, secure, and user-centric web applications using modern Web APIs.
 
 ## Tags
-`#YouTubeDownloader` `#ChromeExtension` `#FullStack` `#NodeJS` `#Automation` `#WebScraping` `#JavaScript` `#yt-dlp` `#ManifestV3` `#UXDesign`
+`#YouTubeDownloader` `#ChromeExtension` `#VanillaJS` `#FullStack` `#NodeJS` `#Automation` `#WebScraping` `#JavaScript` `#yt-dlp` `#ManifestV3` `#UXDesign`
