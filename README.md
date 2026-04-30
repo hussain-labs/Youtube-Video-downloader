@@ -71,4 +71,8 @@ The backend will start at `http://localhost:7777`.
 *   Choose your quality and click **Download Now**.
 
 ---
-Designed and Developed with a focus on Backend Integration and Security Bypass.
+## About Us
+Developed by a team focused on React mastery and high-performance backend integrations. We specialize in building secure, scalable, and user-centric web applications.
+
+## Tags
+`#YouTubeDownloader` `#ChromeExtension` `#FullStack` `#NodeJS` `#Automation` `#WebScraping` `#JavaScript` `#yt-dlp` `#ManifestV3` `#UXDesign`
