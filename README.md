@@ -1,4 +1,4 @@
-# YouTube Downloader - Premium 3D Edition
+# YouTube Downloader 
 ![Project Showcase](youtube-downloader-extension/logo128.png)
 
 ## Why YouTube Downloader? (The Motivation)
