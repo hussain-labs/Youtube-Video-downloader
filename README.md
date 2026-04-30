@@ -71,9 +71,3 @@ The backend will start at `http://localhost:7777`.
 *   Choose your quality and click **Download Now**.
 
 ---
----
-## About Us
-Developed by a team focused on Pure JavaScript mastery and high-performance backend integrations. We specialize in building lightweight, secure, and user-centric web applications using modern Web APIs.
-
-## Tags
-`#YouTubeDownloader` `#ChromeExtension` `#VanillaJS` `#FullStack` `#NodeJS` `#Automation` `#WebScraping` `#JavaScript` `#yt-dlp` `#ManifestV3` `#UXDesign`
